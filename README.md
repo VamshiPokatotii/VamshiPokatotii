@@ -44,5 +44,5 @@ I build web applications and data-driven solutions that solve practical problems
 
 ## 📬 Contact
 
-* LinkedIn: https://www.linkedin.com/in/vamshi-pokatoti-549a35297/
+* LinkedIn: https://www.linkedin.com/in/vamshipokatoti/
 * Email: vamshipokatoti@gmail.com
